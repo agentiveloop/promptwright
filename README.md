@@ -1,2 +1,2 @@
 # promptwright
-PromptWright
+One prompt. Zero guesswork.
